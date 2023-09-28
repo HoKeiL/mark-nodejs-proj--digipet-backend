@@ -15,7 +15,7 @@ import app from "./server";
  *
  * (There's a separate suite of integration tests that tests endpoint responses _and_ side effects.)
  *
- * On mocking: https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/
+ * On mocking: https://ircleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/
  *
  * On mocking in jest: https://jestjs.io/docs/en/jest-object#jestmockmodulename-factory-options
  */
